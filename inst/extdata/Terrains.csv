@@ -1,0 +1,8 @@
+Terrain,Hours,AMDR,Speed
+HeavyWoods,2,4,0.4
+SteepTerrain,2,4,0.4
+OpenWoods,1,7,0.8
+ModerateTerrain,1,7,0.8
+OpenArea,0.5,10,1.2
+FlatArea,0.5,10,1.2
+Urban,0.5,10,1.7

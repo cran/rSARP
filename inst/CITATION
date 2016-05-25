@@ -1,0 +1,9 @@
+citHeader("To cite the rSARP package in publications use:")
+
+citEntry(
+  textVersion  =
+  paste("John Hutcheson (2014).",
+        "An {R} Companion to Search and Rescue Planning",
+        "",
+        "URL: ")
+)
